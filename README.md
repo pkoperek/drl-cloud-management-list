@@ -41,7 +41,6 @@ Keywords:
 
 ### To check
 
-* Bingqian, D., Chuan, W., Huang, Z.: Learning resource allocation and pricing for cloud profit maximization. In: Proceedings of the AAAI Conference on Artificial Intelligence, Vol. 33(01), pp. 7570–7577 (2019)
 * Zhang, Q., et al.: A double deep Q-learning model for energy-efficient edge scheduling. IEEE Trans. Serv. Comput. 12(5), 739–749 (2018)
 * Wang , Z., et al.: Automated cloud provisioning on aws using deep reinforcement learning. In: arXiv preprint arXiv:1709.04305 (2017)
 * "SMig-RL: An Evolutionary Migration Framework for Cloud Services Based on Deep Reinforcement Learning"
@@ -79,3 +78,7 @@ Keywords:
 * Miaojiang Chena, Tian Wangb, Shaobo Zhangc, Anfeng Liua: "Deep reinforcement learning for computation offloading in mobile edge computing environment"
   * https://www.sciencedirect.com/science/article/abs/pii/S0140366421001729
 * J. Santos, T. Wauters, B. Volckaert, and F. De Turck, “Reinforcement learning for service function chain allocation in fog computing,” Book Chapter in revision, Submitted to Communications Network and Service Management In the Era of Artificial Intelligence and Machine Learning, IEEE Press, 2020.
+
+* Bingqian, D., Chuan, W., Huang, Z.: Learning resource allocation and pricing for cloud profit maximization. In: Proceedings of the AAAI Conference on Artificial Intelligence, Vol. 33(01), pp. 7570–7577 (2019)
+  * https://i.cs.hku.hk/~zhiyi/publications/DHW19-AAAI.pdf
+  * keywords: DDPG, LSTM, DRL
