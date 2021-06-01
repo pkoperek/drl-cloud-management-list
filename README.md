@@ -75,7 +75,6 @@ Keywords:
 * N. Zhao, H. Wu, F. R. Yu, L. Wang, W. Zhang and V. C. M. Leung, "Deep Reinforcement Learning-Based Latency Minimization in Edge Intelligence over Vehicular Networks," in IEEE Internet of Things Journal, doi: 10.1109/JIOT.2021.3078480.
 * Guangyao Zhou, Wenhong Tian, Rajkumar Buyya "Deep Reinforcement Learning-based Methods for Resource Scheduling in Cloud Computing: A Review and Future Directions"
   * https://arxiv.org/pdf/2105.04086.pdf
-* Yadav, M.P., Pal, N. & Yadav, D.K. Resource provisioning for containerized applications. Cluster Comput (2021). https://doi.org/10.1007/s10586-021-03293-5
 * Yuping Fan, Zhiling Lan, DRAS-CQSim: A reinforcement learning based framework for HPC cluster scheduling, Software Impacts, Volume 8, 2021, 100077, ISSN 2665-9638, https://doi.org/10.1016/j.simpa.2021.100077.
 * Miaojiang Chena, Tian Wangb, Shaobo Zhangc, Anfeng Liua: "Deep reinforcement learning for computation offloading in mobile edge computing environment"
   * https://www.sciencedirect.com/science/article/abs/pii/S0140366421001729
