@@ -16,7 +16,11 @@ Keywords:
 
 * Zong, Qing and Zheng, Xiangwei and Wei, Yi and Sun, Hongfeng: "A Deep Reinforcement Learning Based Resource Autonomic Provisioning Approach for Cloud Services"
 * Tania Lorido-BotranMuhammad Khurram Bhatti "Adaptive Container Scheduling in Cloud Data Centers: A Deep Reinforcement Learning Approach"
-
+* Jose Santos, Tim Wauters, Bruno Volckaert and Filip De Turck: "Resource Provisioning in Fog Computing through Deep Reinforcement Learning"
+  * http://dl.ifip.org/db/conf/im/im2021mini/210942.pdf
+  * source code: https://github.com/jpedro1992/gym-fog
+  * keywords: simulation, Open AI Gym, fog computing, DQN, MILP
+  
 ### 2020
 
 * Funika, W{\l}odzimierz and Koperek, Pawe{\l} and Kitowski, Jacek "Automatic Management of Cloud Applications with Use of Proximal Policy Optimization"
@@ -73,6 +77,6 @@ Keywords:
   * https://arxiv.org/pdf/2105.04086.pdf
 * Yadav, M.P., Pal, N. & Yadav, D.K. Resource provisioning for containerized applications. Cluster Comput (2021). https://doi.org/10.1007/s10586-021-03293-5
 * Yuping Fan, Zhiling Lan, DRAS-CQSim: A reinforcement learning based framework for HPC cluster scheduling, Software Impacts, Volume 8, 2021, 100077, ISSN 2665-9638, https://doi.org/10.1016/j.simpa.2021.100077.
-* Jose Santos, Tim Wauters, Bruno Volckaert and Filip De Turck: "Resource Provisioning in Fog Computing through Deep Reinforcement Learning", 2021
 * Miaojiang Chena, Tian Wangb, Shaobo Zhangc, Anfeng Liua: "Deep reinforcement learning for computation offloading in mobile edge computing environment"
   * https://www.sciencedirect.com/science/article/abs/pii/S0140366421001729
+* J. Santos, T. Wauters, B. Volckaert, and F. De Turck, “Reinforcement learning for service function chain allocation in fog computing,” Book Chapter in revision, Submitted to Communications Network and Service Management In the Era of Artificial Intelligence and Machine Learning, IEEE Press, 2020.
