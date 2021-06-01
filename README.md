@@ -1,7 +1,48 @@
-# Applying Deep Reinforcement Learning to Cloud Resources Management - related papers
+## DRL in Cloud Computing
 
-### To-check queue
+List of publications about autonomous management of cloud computing resources.
 
+Keywords:
+
+* Cloud Computing
+* Deep Reinforcement Learning
+* Autonomous Management
+* Autonomic Managenent
+* Resource Provisioning
+
+## Papers list
+
+### 2021
+
+* Zong, Qing and Zheng, Xiangwei and Wei, Yi and Sun, Hongfeng: "A Deep Reinforcement Learning Based Resource Autonomic Provisioning Approach for Cloud Services"
+* Tania Lorido-BotranMuhammad Khurram Bhatti "Adaptive Container Scheduling in Cloud Data Centers: A Deep Reinforcement Learning Approach"
+
+### 2020
+
+* Funika, W{\l}odzimierz and Koperek, Pawe{\l} and Kitowski, Jacek "Automatic Management of Cloud Applications with Use of Proximal Policy Optimization"
+* Funika, W{\l}odzimierz and Koperek, Pawe{\l}"Evaluating the Use of Policy Gradient Optimization Approach for Automatic Cloud Resource Provisioning"
+* Luca Caviglione and Mauro Gaggero and Massimo Paolucci and Roberto Ronco"Deep reinforcement learning for multi-objective placement of virtual machines in cloud datacenters"
+* Zhiping Peng and Jianpeng Lin and Delong Cui and Qirui Li and Jieguang He "A multi-objective trade-off framework for cloud resource scheduling based on the Deep Q-network algorithm"
+* Zhang, S., et al. "A-SARSA: a predictive container auto-scaling algorithm based on reinforcement learning."
+
+### 2018
+
+* Chen, Li and Lingys, Justinas and Chen, Kai and Liu, Feng "AuTO: Scaling Deep Reinforcement Learning for Datacenter-Scale Automatic Traffic Optimization"
+* H. Liu and Shiwen Liu and K. Zheng "A Reinforcement Learning-Based Resource Allocation Scheme for Cloud Robotics"
+* Cheng, Mingxi and Li, Ji and Nazarian, Shahin "DRL-cloud: Deep reinforcement learning-based resource provisioning and task scheduling for cloud service providers"
+
+### 2017
+
+* Y. {Zhang} and J. {Yao} and H. {Guan} "Intelligent Cloud Resource Management with Deep Reinforcement Learning"
+
+### To check
+
+* Bingqian, D., Chuan, W., Huang, Z.: Learning resource allocation and pricing for cloud profit maximization. In: Proceedings of the AAAI Conference on Artificial Intelligence, Vol. 33(01), pp. 7570–7577 (2019)
+* Zhang, Q., et al.: A double deep Q-learning model for energy-efficient edge scheduling. IEEE Trans. Serv. Comput. 12(5), 739–749 (2018)
+* Wang , Z., et al.: Automated cloud provisioning on aws using deep reinforcement learning. In: arXiv preprint arXiv:1709.04305 (2017)
+* "SMig-RL: An Evolutionary Migration Framework for Cloud Services Based on Deep Reinforcement Learning"
+* "Adaptive Container Scheduling in Cloud Data Centers: A Deep Reinforcement Learning Approach"
+* Wang, Zhiguang and Gwon, Chul and Oates, Tim and Iezzi, Adam: "Automated Cloud Provisioning on AWS using Deep Reinforcement Learning"
 * I. John, A. Sreekantan and S. Bhatnagar, "Auto-scaling Resources for Cloud Applications using Reinforcement learning," 2019 Grace Hopper Celebration India (GHCI), 2019, pp. 1-5, doi: 10.1109/GHCI47972.2019.9071835.
 * S. Deng et al., "Dynamical Resource Allocation in Edge for Trustable Internet-of-Things Systems: A Reinforcement Learning Method," in IEEE Transactions on Industrial Informatics, vol. 16, no. 9, pp. 6103-6113, Sept. 2020, doi: 10.1109/TII.2020.2974875.
 * Sisheng Liang, Zhou Yang, Fang Jin, Yong Chen: "Data Centers Job Scheduling with Deep Reinforcement Learning"
@@ -32,3 +73,6 @@
   * https://arxiv.org/pdf/2105.04086.pdf
 * Yadav, M.P., Pal, N. & Yadav, D.K. Resource provisioning for containerized applications. Cluster Comput (2021). https://doi.org/10.1007/s10586-021-03293-5
 * Yuping Fan, Zhiling Lan, DRAS-CQSim: A reinforcement learning based framework for HPC cluster scheduling, Software Impacts, Volume 8, 2021, 100077, ISSN 2665-9638, https://doi.org/10.1016/j.simpa.2021.100077.
+* Jose Santos, Tim Wauters, Bruno Volckaert and Filip De Turck: "Resource Provisioning in Fog Computing through Deep Reinforcement Learning", 2021
+* Miaojiang Chena, Tian Wangb, Shaobo Zhangc, Anfeng Liua: "Deep reinforcement learning for computation offloading in mobile edge computing environment"
+  * https://www.sciencedirect.com/science/article/abs/pii/S0140366421001729
