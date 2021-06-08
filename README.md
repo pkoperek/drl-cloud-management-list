@@ -78,7 +78,9 @@ Keywords:
 * Miaojiang Chena, Tian Wangb, Shaobo Zhangc, Anfeng Liua: "Deep reinforcement learning for computation offloading in mobile edge computing environment"
   * https://www.sciencedirect.com/science/article/abs/pii/S0140366421001729
 * J. Santos, T. Wauters, B. Volckaert, and F. De Turck, “Reinforcement learning for service function chain allocation in fog computing,” Book Chapter in revision, Submitted to Communications Network and Service Management In the Era of Artificial Intelligence and Machine Learning, IEEE Press, 2020.
-
 * Bingqian, D., Chuan, W., Huang, Z.: Learning resource allocation and pricing for cloud profit maximization. In: Proceedings of the AAAI Conference on Artificial Intelligence, Vol. 33(01), pp. 7570–7577 (2019)
   * https://i.cs.hku.hk/~zhiyi/publications/DHW19-AAAI.pdf
   * keywords: DDPG, LSTM, DRL
+* Qin, Y., Wang, H., Yi, S. et al. A multi-objective reinforcement learning algorithm for deadline constrained scientific workflow scheduling in clouds. Front. Comput. Sci. 15, 155105 (2021). https://doi.org/10.1007/s11704-020-9273-z
+* Shuaibing Lu, Jie Wu, Ning Wang, Yubin Duan, Haiming Liu, Jiayue Zhang, Juan Fang: Resource Provisioning in Collaborative Fog Computing for Multiple Delay-Sensitive Users
+  *  https://cis.temple.edu/~jiewu/research/publications/Publication_files/lsb2021spe.pdf
