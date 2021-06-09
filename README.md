@@ -19,12 +19,24 @@ Keywords:
   * source code: https://github.com/jpedro1992/gym-fog
   * keywords: simulation, Open AI Gym, fog computing, DQN, MILP
 
+#### to read
+
+* Guangyao Zhou, Wenhong Tian, Rajkumar Buyya "Deep Reinforcement Learning-based Methods for Resource Scheduling in Cloud Computing: A Review and Future Directions"
+  * https://arxiv.org/pdf/2105.04086.pdf
+* Hye-Young Kim: "An Efficient Load Balancing Scheme for Gaming Server Using Proximal Policy Optimization Algorithm "
+  * http://jips-k.org/digital-library/2021/17/2/297
+* X. Zhou, R. Wang, Y. Wen and R. Tan, "Joint IT-Facility Optimization for Green Data Centers via Deep Reinforcement Learning," in IEEE Network, doi: 10.1109/MNET.011.2100101.
+* Junxiong Wang, Immanuel Trummer, Debabrota Basu: "UDO: Universal Database Optimization using Reinforcement Learning"
+  * https://arxiv.org/pdf/2104.01744.pdf 
 * Yisel Garí, David A. Monge, Elina Pacini, Cristian Mateos, Carlos García Garino, Reinforcement learning-based application Autoscaling in the Cloud: A survey, Engineering Applications of Artificial Intelligence, Volume 102, 2021, 104288, ISSN 0952-1976, https://doi.org/10.1016/j.engappai.2021.104288.
   * https://www.sciencedirect.com/science/article/abs/pii/S0952197621001354
   * keywords: 
 * Zong, Qing and Zheng, Xiangwei and Wei, Yi and Sun, Hongfeng: "A Deep Reinforcement Learning Based Resource Autonomic Provisioning Approach for Cloud Services"
   * keywords:
 * Tania Lorido-Botran, Muhammad Khurram Bhatti "Adaptive Container Scheduling in Cloud Data Centers: A Deep Reinforcement Learning Approach"
+  * keywords:
+* Tania Lorido-Botran, Muhammad Khurram Bhatti: "ImpalaE: Towards an optimal policy for efficient resource management at the edge"
+  * http://ceur-ws.org/Vol-2850/paper5.pdf
   * keywords:
 * Qin, Y., Wang, H., Yi, S. et al. A multi-objective reinforcement learning algorithm for deadline constrained scientific workflow scheduling in clouds. Front. Comput. Sci. 15, 155105 (2021). https://doi.org/10.1007/s11704-020-9273-z
   * keywords:
@@ -53,8 +65,12 @@ Keywords:
 * Shuaibing Lu, Jie Wu, Ning Wang, Yubin Duan, Haiming Liu, Jiayue Zhang, Juan Fang: Resource Provisioning in Collaborative Fog Computing for Multiple Delay-Sensitive Users
   *  https://cis.temple.edu/~jiewu/research/publications/Publication_files/lsb2021spe.pdf
   * keywords:
-  
+* Miaojiang Chena, Tian Wangb, Shaobo Zhangc, Anfeng Liua: "Deep reinforcement learning for computation offloading in mobile edge computing environment"
+  * https://www.sciencedirect.com/science/article/abs/pii/S0140366421001729
+
 ### 2020
+
+#### to read
 
 * Funika, Wlodzimierz and Koperek, Pawel and Kitowski, Jacek: "Automatic Management of Cloud Applications with Use of Proximal Policy Optimization"
   * keywords:
@@ -70,6 +86,14 @@ Keywords:
   * keywords:
 * I. John, A. Sreekantan and S. Bhatnagar, "Auto-scaling Resources for Cloud Applications using Reinforcement learning," 2019 Grace Hopper Celebration India (GHCI), 2019, pp. 1-5, doi: 10.1109/GHCI47972.2019.9071835.
   * keywords:
+* S. Deng et al., "Dynamical Resource Allocation in Edge for Trustable Internet-of-Things Systems: A Reinforcement Learning Method," in IEEE Transactions on Industrial Informatics, vol. 16, no. 9, pp. 6103-6113, Sept. 2020, doi: 10.1109/TII.2020.2974875.
+  * keywords:
+* Sisheng Liang, Zhou Yang, Fang Jin, Yong Chen: "Data Centers Job Scheduling with Deep Reinforcement Learning"
+  * link: https://link.springer.com/chapter/10.1007/978-3-030-47436-2_68
+  * keywords:
+* Hongshuai Ren, Yang Wang, Chengzhong Xu, Xi Chen: "SMig-RL: An Evolutionary Migration Framework for Cloud Services Based on Deep Reinforcement Learning"
+  * link: https://dl.acm.org/doi/abs/10.1145/3414840
+  * keywords:
 
 ### 2018
 
@@ -77,6 +101,7 @@ Keywords:
   * https://i.cs.hku.hk/~zhiyi/publications/DHW19-AAAI.pdf
   * keywords: DDPG, LSTM, DRL, simulation (?)
 
+#### to read
 
 * Chen, Li and Lingys, Justinas and Chen, Kai and Liu, Feng "AuTO: Scaling Deep Reinforcement Learning for Datacenter-Scale Automatic Traffic Optimization"
   * keywords:
@@ -89,29 +114,13 @@ Keywords:
 
 ### 2017
 
+#### to read
+
 * Y. {Zhang} and J. {Yao} and H. {Guan} "Intelligent Cloud Resource Management with Deep Reinforcement Learning"
   * keywords:
-* Wang , Z., et al.: Automated cloud provisioning on aws using deep reinforcement learning. In: arXiv preprint arXiv:1709.04305 (2017)
-  * keywords:
-
-### To check
-
-* "Adaptive Container Scheduling in Cloud Data Centers: A Deep Reinforcement Learning Approach"
 * Wang, Zhiguang and Gwon, Chul and Oates, Tim and Iezzi, Adam: "Automated Cloud Provisioning on AWS using Deep Reinforcement Learning"
-* S. Deng et al., "Dynamical Resource Allocation in Edge for Trustable Internet-of-Things Systems: A Reinforcement Learning Method," in IEEE Transactions on Industrial Informatics, vol. 16, no. 9, pp. 6103-6113, Sept. 2020, doi: 10.1109/TII.2020.2974875.
-* Sisheng Liang, Zhou Yang, Fang Jin, Yong Chen: "Data Centers Job Scheduling with Deep Reinforcement Learning"
-  * Link: https://link.springer.com/chapter/10.1007/978-3-030-47436-2_68
-* Hongshuai Ren, Yang Wang, Chengzhong Xu, Xi Chen: "SMig-RL: An Evolutionary Migration Framework for Cloud Services Based on Deep Reinforcement Learning"
-  * https://dl.acm.org/doi/abs/10.1145/3414840
-* Tania Lorido-Botran, Muhammad Khurram Bhatti: "ImpalaE: Towards an optimal policy for efficient resource management at the edge"
-  * http://ceur-ws.org/Vol-2850/paper5.pdf
-* Junxiong Wang, Immanuel Trummer, Debabrota Basu: "UDO: Universal Database Optimization using Reinforcement Learning"
-  * https://arxiv.org/pdf/2104.01744.pdf 
-* X. Zhou, R. Wang, Y. Wen and R. Tan, "Joint IT-Facility Optimization for Green Data Centers via Deep Reinforcement Learning," in IEEE Network, doi: 10.1109/MNET.011.2100101.
-* Hye-Young Kim: "An Efficient Load Balancing Scheme for Gaming Server Using Proximal Policy Optimization Algorithm "
-  * http://jips-k.org/journals/jips/digital-library/manuscript/file/24560/07-(297_305)%252020E03-048-ME-ed(0428)-r1(0429)(0503).pdf&hl=pl&sa=X&d=15306354434497417830&ei=HJSfYL-EAeTTsQLC-rzABg&scisig=AAGBfm1iKM1zHKRJfI0DnQmEXHn-2GwJFA&nossl=1&oi=scholaralrt&hist=Hrfa5GsAAAAJ:1607479755527531410:AAGBfm2iCDu7CPulHWYXowO5bAEw-rg1OQ&html=&folt=rel
-* Guangyao Zhou, Wenhong Tian, Rajkumar Buyya "Deep Reinforcement Learning-based Methods for Resource Scheduling in Cloud Computing: A Review and Future Directions"
-  * https://arxiv.org/pdf/2105.04086.pdf
-* Miaojiang Chena, Tian Wangb, Shaobo Zhangc, Anfeng Liua: "Deep reinforcement learning for computation offloading in mobile edge computing environment"
-  * https://www.sciencedirect.com/science/article/abs/pii/S0140366421001729
+  * https://arxiv.org/abs/1709.04305
+  * keywords:
+  
+### To check
 
