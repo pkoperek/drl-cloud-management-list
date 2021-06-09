@@ -18,6 +18,7 @@ Keywords:
   * http://dl.ifip.org/db/conf/im/im2021mini/210942.pdf
   * source code: https://github.com/jpedro1992/gym-fog
   * keywords: simulation, Open AI Gym, fog computing, DQN, MILP
+  * use-case: 
 
 #### to read
 
@@ -100,6 +101,7 @@ Keywords:
 * Bingqian, D., Chuan, W., Huang, Z.: Learning resource allocation and pricing for cloud profit maximization. In: Proceedings of the AAAI Conference on Artificial Intelligence, Vol. 33(01), pp. 7570–7577 (2019)
   * https://i.cs.hku.hk/~zhiyi/publications/DHW19-AAAI.pdf
   * keywords: DDPG, LSTM, DRL, simulation (?)
+  * use-case: maximize service provider profit
 
 #### to read
 
@@ -114,13 +116,15 @@ Keywords:
 
 ### 2017
 
-#### to read
-
-* Y. {Zhang} and J. {Yao} and H. {Guan} "Intelligent Cloud Resource Management with Deep Reinforcement Learning"
-  * keywords:
 * Wang, Zhiguang and Gwon, Chul and Oates, Tim and Iezzi, Adam: "Automated Cloud Provisioning on AWS using Deep Reinforcement Learning"
   * https://arxiv.org/abs/1709.04305
-  * keywords:
+  * keywords: DQN, D3QN, Q-learning, simulator, real cloud, AWS
+  * use-case: provision resources for a workload, minimize cost
+
+* Y. Zhang and J. Yao and H. Guan "Intelligent Cloud Resource Management with Deep Reinforcement Learning"
+  * keywords: DQN, SAQN, Q-learning, AWS, evaluation on 4 servers, system trained in the live environment
+  * use-case: allocate resources for tasks
+
   
 ### To check
 
