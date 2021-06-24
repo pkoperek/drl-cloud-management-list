@@ -71,6 +71,10 @@ Keywords:
 
 ### 2020
 
+* Wenxia Guo; Wenhong Tian; Yufei Ye; Lingxiao Xu; Kui Wu: Cloud Resource Scheduling with Deep Reinforcement Learning and Imitation Learning
+  * keywords: imitation learning, CNN, simulation
+  * use-case: allocating jobs in a cluster
+
 #### to read
 
 * Funika, Wlodzimierz and Koperek, Pawel and Kitowski, Jacek: "Automatic Management of Cloud Applications with Use of Proximal Policy Optimization"
@@ -103,13 +107,15 @@ Keywords:
   * keywords: DDPG, LSTM, DRL, simulation (?)
   * use-case: maximize service provider profit
 
+* Cheng, Mingxi and Li, Ji and Nazarian, Shahin "DRL-cloud: Deep reinforcement learning-based resource provisioning and task scheduling for cloud service providers"
+  * keywords: DQN, simulation
+  * use-case: allocating VMs to servers
+
 #### to read
 
 * Chen, Li and Lingys, Justinas and Chen, Kai and Liu, Feng "AuTO: Scaling Deep Reinforcement Learning for Datacenter-Scale Automatic Traffic Optimization"
   * keywords:
 * H. Liu and Shiwen Liu and K. Zheng "A Reinforcement Learning-Based Resource Allocation Scheme for Cloud Robotics"
-  * keywords:
-* Cheng, Mingxi and Li, Ji and Nazarian, Shahin "DRL-cloud: Deep reinforcement learning-based resource provisioning and task scheduling for cloud service providers"
   * keywords:
 * Zhang, Q., et al.: A double deep Q-learning model for energy-efficient edge scheduling. IEEE Trans. Serv. Comput. 12(5), 739–749 (2018)
   * keywords:
