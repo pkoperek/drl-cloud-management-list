@@ -111,6 +111,13 @@ Keywords:
   * keywords: DQN, simulation
   * use-case: allocating VMs to servers
 
+* C. Bitsakos, I. Konstantinou, and N. Koziris, “DERP: A deep reinforcement learning cloud system for elastic resource provisioning,” in 2018 IEEE International
+Conference on Cloud Computing Technology and Science, CloudCom 2018, Nicosia,
+Cyprus, December 10-13, 2018. IEEE Computer Society, 2018, pp. 21–29.
+  * keywords: MLP, DQN, Double DQN, simulation, real-world environment
+  * use-case: adding/removing VMs
+  * link: https://www.researchgate.net/publication/329959054_DERP_A_Deep_Reinforcement_Learning_Cloud_System_for_Elastic_Resource_Provisioning
+
 #### to read
 
 * Chen, Li and Lingys, Justinas and Chen, Kai and Liu, Feng "AuTO: Scaling Deep Reinforcement Learning for Datacenter-Scale Automatic Traffic Optimization"
