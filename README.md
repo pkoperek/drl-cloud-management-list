@@ -39,7 +39,8 @@ Keywords:
 * Tania Lorido-Botran, Muhammad Khurram Bhatti: "ImpalaE: Towards an optimal policy for efficient resource management at the edge"
   * http://ceur-ws.org/Vol-2850/paper5.pdf
   * keywords:
-* Qin, Y., Wang, H., Yi, S. et al. A multi-objective reinforcement learning algorithm for deadline constrained scientific workflow scheduling in clouds. Front. Comput. Sci. 15, 155105 (2021). https://doi.org/10.1007/s11704-020-9273-z
+* Qin, Y., Wang, H., Yi, S. et al. A multi-objective reinforcement learning algorithm for deadline constrained scientific work
+ow scheduling in clouds. Front. Comput. Sci. 15, 155105 (2021). https://doi.org/10.1007/s11704-020-9273-z
   * keywords:
 * N. Zhao, H. Wu, F. R. Yu, L. Wang, W. Zhang and V. C. M. Leung, "Deep Reinforcement Learning-Based Latency Minimization in Edge Intelligence over Vehicular Networks," in IEEE Internet of Things Journal, doi: 10.1109/JIOT.2021.3078480.
   * keywords:
@@ -74,6 +75,10 @@ Keywords:
 * Wenxia Guo; Wenhong Tian; Yufei Ye; Lingxiao Xu; Kui Wu: Cloud Resource Scheduling with Deep Reinforcement Learning and Imitation Learning
   * keywords: imitation learning, CNN, simulation
   * use-case: allocating jobs in a cluster
+
+* N. Shan, X. Cui, and Z. Gao, “"drl + fl": An intelligent resource allocation model based on deep reinforcement learning for mobile edge computing,” Comput. Commun., vol. 160, pp. 14–24, 2020.
+  * keywords: DDQN, DQN, Federal Learning, 
+  * use-case: allocate resources in a MEC (Mobile Edge Computing) environment, minimize energy consumption, service delay
 
 #### to read
 
