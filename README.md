@@ -20,10 +20,17 @@ Keywords:
   * keywords: simulation, Open AI Gym, fog computing, DQN, MILP
   * use-case: 
 
-#### to read
-
 * Guangyao Zhou, Wenhong Tian, Rajkumar Buyya "Deep Reinforcement Learning-based Methods for Resource Scheduling in Cloud Computing: A Review and Future Directions"
   * https://arxiv.org/pdf/2105.04086.pdf
+  * keywords: review paper
+
+* S. Kardani-Moghaddam, R. Buyya, and K. Ramamohanarao, “ADRL: A hybrid anomaly-aware deep reinforcement learning-based resource scaling in clouds,” IEEE Trans. Parallel Distributed Syst., vol. 32, no. 3, pp. 514–526, 2021.
+  * keywords: DQN, CloudSim, simulation, ebay workload
+  * use-case: cloud resources scaling (both vertical and horizontal)
+
+#### to read
+
+
 * Hye-Young Kim: "An Efficient Load Balancing Scheme for Gaming Server Using Proximal Policy Optimization Algorithm "
   * http://jips-k.org/digital-library/2021/17/2/297
 * X. Zhou, R. Wang, Y. Wen and R. Tan, "Joint IT-Facility Optimization for Green Data Centers via Deep Reinforcement Learning," in IEEE Network, doi: 10.1109/MNET.011.2100101.
@@ -77,8 +84,12 @@ ow scheduling in clouds. Front. Comput. Sci. 15, 155105 (2021). https://doi.org/
   * use-case: allocating jobs in a cluster
 
 * N. Shan, X. Cui, and Z. Gao, “"drl + fl": An intelligent resource allocation model based on deep reinforcement learning for mobile edge computing,” Comput. Commun., vol. 160, pp. 14–24, 2020.
-  * keywords: DDQN, DQN, Federal Learning, 
+  * keywords: Double DQN, DQN, Federal Learning, 
   * use-case: allocate resources in a MEC (Mobile Edge Computing) environment, minimize energy consumption, service delay
+
+* M. Li, F. R. Yu, P. Si, W. Wu, and Y. Zhang, “Resource optimization for delaytolerant data in blockchain-enabled iot with edge computing: A deep reinforcement learning approach,” IEEE Internet Things J., vol. 7, no. 10, pp. 9399–9412,
+  * keywords: Dueling DQN, simulation
+  * use-case: optimizing caching and data processing in an edge computing env
 
 #### to read
 
@@ -143,6 +154,10 @@ Cyprus, December 10-13, 2018. IEEE Computer Society, 2018, pp. 21–29.
   * keywords: DQN, SAQN, Q-learning, AWS, evaluation on 4 servers, system trained in the live environment
   * use-case: allocate resources for tasks
 
+* N. Liu, Z. Li, J. Xu, Z. Xu, S. Lin, Q. Qiu, J. Tang, and Y. Wang, “A hierarchical framework of cloud resource allocation and power management using deep reinforcement learning,” in 37th IEEE International Conference on Distributed Computing Systems, ICDCS 2017, Atlanta, GA, USA, June 5-8, 2017. IEEE Computer Society, 2017, pp. 372–382.
+  * keywords: continuous-time Q-learning for SMDP (DQN derived) , baseline comparison: round-robin, simulation
+  * use-case: power consumption and energy usage optimization without significantly degrading service latency (action definition: `action at each
+decision epoch is simply the target server for VM allocation,`)
   
 ### To check
 
