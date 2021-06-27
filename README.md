@@ -91,6 +91,11 @@ ow scheduling in clouds. Front. Comput. Sci. 15, 155105 (2021). https://doi.org/
   * keywords: Dueling DQN, simulation
   * use-case: optimizing caching and data processing in an edge computing env
 
+* Sisheng Liang, Zhou Yang, Fang Jin, Yong Chen: "Data Centers Job Scheduling with Deep Reinforcement Learning"
+  * link: https://link.springer.com/chapter/10.1007/978-3-030-47436-2_68
+  * keywords: Advantage Actor-critic (A2C), simulation test (using synthetic and pre-collected traces)
+  * use-case: schedule processing jobs in a data-center
+
 #### to read
 
 * Funika, Wlodzimierz and Koperek, Pawel and Kitowski, Jacek: "Automatic Management of Cloud Applications with Use of Proximal Policy Optimization"
@@ -108,9 +113,6 @@ ow scheduling in clouds. Front. Comput. Sci. 15, 155105 (2021). https://doi.org/
 * I. John, A. Sreekantan and S. Bhatnagar, "Auto-scaling Resources for Cloud Applications using Reinforcement learning," 2019 Grace Hopper Celebration India (GHCI), 2019, pp. 1-5, doi: 10.1109/GHCI47972.2019.9071835.
   * keywords:
 * S. Deng et al., "Dynamical Resource Allocation in Edge for Trustable Internet-of-Things Systems: A Reinforcement Learning Method," in IEEE Transactions on Industrial Informatics, vol. 16, no. 9, pp. 6103-6113, Sept. 2020, doi: 10.1109/TII.2020.2974875.
-  * keywords:
-* Sisheng Liang, Zhou Yang, Fang Jin, Yong Chen: "Data Centers Job Scheduling with Deep Reinforcement Learning"
-  * link: https://link.springer.com/chapter/10.1007/978-3-030-47436-2_68
   * keywords:
 * Hongshuai Ren, Yang Wang, Chengzhong Xu, Xi Chen: "SMig-RL: An Evolutionary Migration Framework for Cloud Services Based on Deep Reinforcement Learning"
   * link: https://dl.acm.org/doi/abs/10.1145/3414840
@@ -134,10 +136,13 @@ Cyprus, December 10-13, 2018. IEEE Computer Society, 2018, pp. 21–29.
   * use-case: adding/removing VMs
   * link: https://www.researchgate.net/publication/329959054_DERP_A_Deep_Reinforcement_Learning_Cloud_System_for_Elastic_Resource_Provisioning
 
+* Chen, Li and Lingys, Justinas and Chen, Kai and Liu, Feng "AuTO: Scaling Deep Reinforcement Learning for Datacenter-Scale Automatic Traffic Optimization"
+  * https://conferences.sigcomm.org/events/apnet2018/papers/auto.pdf
+  * keywords: real-world testbed test, DRL, DDPG, actor-critic
+  * use-case: load balancing, traffic/flow (web search and data mining requests) optimization
+
 #### to read
 
-* Chen, Li and Lingys, Justinas and Chen, Kai and Liu, Feng "AuTO: Scaling Deep Reinforcement Learning for Datacenter-Scale Automatic Traffic Optimization"
-  * keywords:
 * H. Liu and Shiwen Liu and K. Zheng "A Reinforcement Learning-Based Resource Allocation Scheme for Cloud Robotics"
   * keywords:
 * Zhang, Q., et al.: A double deep Q-learning model for energy-efficient edge scheduling. IEEE Trans. Serv. Comput. 12(5), 739–749 (2018)
@@ -156,8 +161,7 @@ Cyprus, December 10-13, 2018. IEEE Computer Society, 2018, pp. 21–29.
 
 * N. Liu, Z. Li, J. Xu, Z. Xu, S. Lin, Q. Qiu, J. Tang, and Y. Wang, “A hierarchical framework of cloud resource allocation and power management using deep reinforcement learning,” in 37th IEEE International Conference on Distributed Computing Systems, ICDCS 2017, Atlanta, GA, USA, June 5-8, 2017. IEEE Computer Society, 2017, pp. 372–382.
   * keywords: continuous-time Q-learning for SMDP (DQN derived) , baseline comparison: round-robin, simulation
-  * use-case: power consumption and energy usage optimization without significantly degrading service latency (action definition: `action at each
-decision epoch is simply the target server for VM allocation,`)
+  * use-case: power consumption and energy usage optimization without significantly degrading service latency (action definition: `action at each decision epoch is simply the target server for VM allocation,`)
   
 ### To check
 
