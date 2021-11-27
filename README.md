@@ -30,6 +30,11 @@ Keywords:
 
 #### to read
 
+* Zhenjie Yao, Lan Chen, He Zhang: "Deep Reinforcement Learning for Job Scheduling on Cluster"
+  * https://link.springer.com/chapter/10.1007%2F978-3-030-86380-7_50
+  * source code: 
+  * keywords: 
+  * use-case:
 
 * Hye-Young Kim: "An Efficient Load Balancing Scheme for Gaming Server Using Proximal Policy Optimization Algorithm "
   * http://jips-k.org/digital-library/2021/17/2/297
